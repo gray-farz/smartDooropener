@@ -1,0 +1,65 @@
+<resources>
+    <string name="app_name">ERFAN REMOTE</string>
+
+    <string name="opendoor">open door</string>
+    <string name="setting">setting</string>
+    <string name="report">report</string>
+    <string name="test">test</string>
+
+    <string name="on">turn on</string>
+
+    <string name="managedoors">manage doors</string>
+    <string name="factorysetting">factory setting</string>
+    <string name="accesslist">access lidt</string>
+
+    <string name="lastconnection">last connections</string>
+    <string name="blacklist">black list</string>
+
+    <string name="guideness">press test button</string>
+    <string name="testbut">test</string>
+
+    <string name="search">search</string>
+    <string name="add">add</string>
+    <string name="edit">edit</string>
+    <string name="delete">delete</string>
+    <string name="time">being on time</string>
+    <string name="set">set</string>
+
+    <string name="wifiname">wifi name</string>
+    <string name="key">key</string>
+    <string name="doorname">door name</string>
+    <string name="password">wifi password</string>
+    <string name="taeed">ok</string>
+    <string name="cancel">cancel</string>
+
+    <string name="wifinamelimit">Maximum 30 characters</string>
+    <string name="keylimit">Maximum 10 characters</string>
+    <string name="passimit">between 9 and 20 chracter</string>
+
+    <string name="resetfactoryMassage">Return to factory settings?</string>
+    <string name="dofactoryMassage">Just the settings of this software application return to factory settings</string>
+
+    <string name="deletelist">delete all list</string>
+    <string name="sendList">send list</string>
+    <string name="recieveList">recieve list</string>
+
+    <string name="accessradio">who have access</string>
+    <string name="notaccessradio">who dont have access</string>
+
+    <string name="warnACCESSlist">number of access list larger than permitted number</string>
+    <string name="notList">list is not found</string>
+
+    <string name="IMEIlabel">your unique code</string>
+    <string name="appwidget_text">EXAMPLE</string>
+    <string name="add_widget">Add widget</string>
+
+    <string name="lengthIMEIwarn">IMEI length is not valid(20 characters)</string>
+    <string name="adminWarn">you are not admin</string>
+
+    <string name="nullIMEI">it is not recieved</string>
+    <string name="IOException">please connect to network</string>
+    <string name="nullCase">there is nothing</string>
+    <string name="nullDeleteDatabase">nothing is deleted from database</string>
+
+</resources>
+
